@@ -225,7 +225,6 @@ SRCS_MSXLIB=\
 	lib\game\etc\password.asm \
 	lib\game\etc\ram.asm \
 	lib\unpack\unpack_zx0.asm \
-	lib\unpack\unpack_zx7.asm \
 	lib\unpack\ram.asm
 
 SRCS_LIBEXT=\
@@ -233,8 +232,7 @@ SRCS_LIBEXT=\
 	libext\ayFX-replayer\ayFX-RAM.tniasm.ASM \
 	libext\pt3\PT3-ROM.tniasm.ASM \
 	libext\pt3\PT3-RAM.tniasm.ASM \
-	libext\zx0\dzx0_standard.asm \
-	libext\zx7\dzx7_standard.tniasm.asm
+	libext\zx0\dzx0_standard.asm
 
 #
 # phony targets
